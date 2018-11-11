@@ -1,0 +1,6 @@
+The following is the content of this text file:
+1
+12
+123
+1234
+12345
